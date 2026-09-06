@@ -36,5 +36,5 @@ Feel free to reach out about my projects or potential opportunities!
 
 <div style="align-items:center">
 <br>
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=24759&api_domain=hackatime.hackclub.com&theme=omni&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" style="height:280px">
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=24759&api_domain=hackatime.hackclub.com&theme=omni&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" style="height:255px">
 </div>
