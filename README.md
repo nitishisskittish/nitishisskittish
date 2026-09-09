@@ -17,8 +17,8 @@ Feel free to reach out about my projects or potential opportunities!
 <img src="Images/python.svg" style="width:70px; background-color:#242938; border-radius: 8px; padding: 3px">
 <img src="Images/mysql.svg" style="width:70px; background-color:#242938; border-radius: 8px; padding: 3px">
 <img src="Images/latex.svg" style="width:70px; background-color:#242938; border-radius: 8px; padding: 3px">
-<img src="Images/csharp.svg" style="width:70px; background-color:#242938; border-radius: 8px; padding: 3px">
 <img src="Images/lua.svg" style="width:70px; background-color:#242938;border-radius: 8px; padding: 3px">
+<img src="Images/csharp.svg" style="width:70px; background-color:#242938; border-radius: 8px; padding: 3px">
 <img src="Images/html5.svg" style="width:70px; background-color:#E44D26;border-radius: 8px; padding: 3px">
 <img src="Images/css.svg" style="width:70px; background-color:#1572B6; border-radius: 8px; padding: 3px">
 <img src="Images/javascript.svg" style="width:70px; background-color:#F0DB4F; border-radius: 8px; padding: 3px">
