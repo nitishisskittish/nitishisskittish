@@ -6,7 +6,7 @@
 
 #### <div style="text-align:center"><p style="font-weight: bold">Computer Systems Engineer @ UGA | Building Things That Probably Shouldn't Work | Projects Born of Entropy</p></div>
 
-Working across both hardware and software, I often find myself learning as I go, whether that's reading through niche documentation or picking up a completely new language. I figure things out along the way and keep at it until I'm satisfied.
+Working across both hardware and software, I learn as I go, whether that's reading through niche documentation for a microcontroller, or picking up a completely new language to better understand a repository. I figure things out along the way and keep at it until I'm satisfied.
 
 Feel free to reach out about my projects or potential opportunities!
 
@@ -18,6 +18,7 @@ Feel free to reach out about my projects or potential opportunities!
 <img src="Images/mysql.svg" style="width:70px; background-color:#242938; border-radius: 8px; padding: 3px">
 <img src="Images/latex.svg" style="width:70px; background-color:#242938; border-radius: 8px; padding: 3px">
 <img src="Images/csharp.svg" style="width:70px; background-color:#242938; border-radius: 8px; padding: 3px">
+<img src="Images/lua.svg" style="width:70px; background-color:#242938;border-radius: 8px; padding: 3px">
 <img src="Images/html5.svg" style="width:70px; background-color:#E44D26;border-radius: 8px; padding: 3px">
 <img src="Images/css.svg" style="width:70px; background-color:#1572B6; border-radius: 8px; padding: 3px">
 <img src="Images/javascript.svg" style="width:70px; background-color:#F0DB4F; border-radius: 8px; padding: 3px">
